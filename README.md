@@ -1,4 +1,4 @@
-# commular-ci-template
+# commular-cli-template
 
 Search and replace "commular-ci-template" for your project name in all the files.
 
